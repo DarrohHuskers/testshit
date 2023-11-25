@@ -1049,7 +1049,7 @@ strong {
 
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://github.com/DarrohHuskers/testshit/blob/main/base.svg);
+    background: url(ps4-assets/base.svg);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
