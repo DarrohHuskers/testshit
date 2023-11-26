@@ -1049,7 +1049,7 @@ strong {
 
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://github.com/DarrohHuskers/testshit/blob/main/base.svg);
+    background: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/53f2d804218c53557f76e654548928bdc95a1717/base.svg);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -1329,7 +1329,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/3e3384fe014433b8553e0af999e720f0c26dea7f/base.svg);
+    background-image: url(ps4-white-assets/base.svg);
 }
 
 .ds4.white.disconnected {
@@ -1337,19 +1337,19 @@ background-position: 0 -70px;
 }
 
 .ds4.white .trigger {
-    background-image: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/3e3384fe014433b8553e0af999e720f0c26dea7f/triggers.svg);
+    background-image: url(ps4-white-assets/triggers.svg);
 }
 
 .ds4.white .bumper {
-    background-image: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/3e3384fe014433b8553e0af999e720f0c26dea7f//bumper.svg);
+    background-image: url(ps4-white-assets/bumper.svg);
 }
 
 .ds4.white .touchpad.pressed {
-    background-image: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/3e3384fe014433b8553e0af999e720f0c26dea7f//touchpad.svg);
+    background-image: url(ps4-white-assets/touchpad.svg);
 }
 
 .ds4.white .back, .ds4 .start {
-    background-image: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/3e3384fe014433b8553e0af999e720f0c26dea7f//start.svg);
+    background-image: url(ps4-white-assets/start.svg);
 }
 
 .ds4.white .button {
@@ -1357,11 +1357,11 @@ background-position: 0 -70px;
 }
 
 .ds4.white .stick {
-    background-image: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/3e3384fe014433b8553e0af999e720f0c26dea7f//sticks.svg);
+    background-image: url(ps4-white-assets/sticks.svg);
 }
 
 .ds4.white .face {
-    background-image: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/3e3384fe014433b8553e0af999e720f0c26dea7f//dpad.svg);
+    background-image: url(ps4-white-assets/dpad.svg);
 }
 
 /*END PS4 White Controller Styling*/
