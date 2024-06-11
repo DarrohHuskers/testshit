@@ -1,4 +1,4 @@
-.controller.ds4 {
+.controller.ds4.white {
     background: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/main/base.svg);
     height: 598px;
     width: 806px;
@@ -7,7 +7,7 @@
 }
 
 
-.ds4 .trigger {
+.ds4.white .trigger {
     width: 99px;
     height: 100%;
     background: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/main/triggers.svg);
@@ -15,21 +15,21 @@
 }
 
 
-.ds4 .bumper {
+.ds4.white .bumper {
     width: 99px;
     height: 23px;
     background: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/main/bumper.svg) no-repeat;
     opacity: 0;
 }
 
-.ds4 .back, .ds4 .start {
+.ds4.white .back, .ds4.white .start {
     background: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/main/start.svg);
     width: 28px;
     height: 46px;
     opacity: 0;
 }
 
-.ds4 .button {
+.ds4.white .button {
     position: absolute;
     width: 55px;
     height: 55px;
@@ -37,7 +37,7 @@
 }
 
 
-.ds4 .stick {
+.ds4.white .stick {
     position: absolute;
     background: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/main/sticks.svg);
     height: 94px;
@@ -45,7 +45,7 @@
 }
 
 
-.ds4 .face {
+.ds4.white .face {
     background: url(https://raw.githubusercontent.com/DarrohHuskers/testshit/main/dpad.svg);
     position: absolute;
 }
